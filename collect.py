@@ -19,7 +19,7 @@ import sys
 import time
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 ZUERICH_URL = "https://www.pls-zh.ch/plsFeed/rss"
 BASEL_URL = "https://data.bs.ch/api/explore/v2.1/catalog/datasets/100088/exports/json"
@@ -136,6 +136,46 @@ def save_rows(city, rows, fields):
     return len(new_rows), len(rows)
 
 
+def _parse_time(text):
+    try:
+        return datetime.fromisoformat(text.replace("Z", "+00:00"))
+    except Exception:
+        return None
+
+
+def write_latest(hours=26):
+    """Schreibt data/latest.json: Verlauf der letzten 26 Stunden pro Parkhaus.
+    Diese kleine Datei liest die Web-App (statt der grossen Monatsdateien)."""
+    now = datetime.now(timezone.utc)
+    start = now - timedelta(hours=hours)
+    months = sorted({start.strftime("%Y-%m"), now.strftime("%Y-%m")})
+    result = {"generated_utc": now.replace(microsecond=0).isoformat(), "cities": {}}
+    for city in ["zuerich", "basel"]:
+        garages = {}
+        for month in months:
+            path = os.path.join(DATA_DIR, city, f"{month}.csv")
+            if not os.path.exists(path):
+                continue
+            with open(path, encoding="utf-8") as f:
+                for row in csv.DictReader(f):
+                    t = _parse_time(row.get("source_utc", ""))
+                    if t is None or t < start:
+                        continue
+                    g = garages.setdefault(row["id"], {"name": row.get("name", ""), "series": []})
+                    g["name"] = row.get("name", "") or g["name"]
+                    g["status"] = row.get("status", "")
+                    if row.get("total"):
+                        g["total"] = row["total"]
+                    free = row.get("free", "")
+                    if free not in ("", None):
+                        g["series"].append([int(t.timestamp()), int(float(free))])
+        for g in garages.values():
+            g["series"].sort()
+        result["cities"][city] = garages
+    with open(os.path.join(DATA_DIR, "latest.json"), "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, separators=(",", ":"))
+
+
 def main():
     collected_utc = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
     ok = 0
@@ -150,6 +190,10 @@ def main():
             ok += 1
         except Exception as e:
             print(f"{city}: FEHLER {e}", file=sys.stderr)
+    try:
+        write_latest()
+    except Exception as e:
+        print(f"latest.json: FEHLER {e}", file=sys.stderr)
     # Nur als Fehler melden, wenn beide Quellen ausgefallen sind
     sys.exit(0 if ok else 1)
 
