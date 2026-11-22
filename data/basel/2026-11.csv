@@ -512,3 +512,19 @@ collected_utc,source_utc,id,name,status,free,total
 2026-11-22T19:38:24+00:00,2026-11-22T19:38:00+00:00,elisabethen,Parkhaus Elisabethen,offen,697,840
 2026-11-22T19:38:24+00:00,2026-11-22T19:38:00+00:00,anfos,Parkhaus Anfos,zu,167,165
 2026-11-22T19:38:24+00:00,2026-11-22T19:38:00+00:00,kunstmuseum,Parkhaus Kunstmuseum,offen,278,350
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,city,Parkhaus City,offen,987,1114
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,europe,Parkhaus Europe,offen,66,120
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,rebgasse,Parkhaus Rebgasse,offen,0,250
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,aeschen,Parkhaus Aeschen,offen,86,95
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,baselparkhaus,Parkhaus,,0,
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,claramatte,Parkhaus Claramatte,offen,121,120
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,centralbahn,Parkhaus Centralbahn,offen,223,287
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,bahnhofsued,Parkhaus Bahnhof Süd,offen,100,100
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,steinen,Parkhaus Steinen,offen,430,526
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,storchen,Parkhaus Storchen,offen,60,142
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,postbasel,Parkhaus Post Basel,offen,77,
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,badbahnhof,Parkhaus Bad. Bahnhof,offen,624,750
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,clarahuus,Parkhaus Clarahuus,offen,42,52
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,elisabethen,Parkhaus Elisabethen,offen,730,840
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,anfos,Parkhaus Anfos,zu,167,165
+2026-11-22T20:28:21+00:00,2026-11-22T20:28:00+00:00,kunstmuseum,Parkhaus Kunstmuseum,offen,291,350
