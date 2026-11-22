@@ -375,3 +375,26 @@ collected_utc,source_utc,id,name,status,free
 2026-11-22T01:18:35+00:00,2026-11-22T01:17:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,157
 2026-11-22T01:18:35+00:00,2026-11-22T01:03:21Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,41
 2026-11-22T01:18:35+00:00,2026-11-22T00:48:20Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,60
+2026-11-22T02:23:20+00:00,2026-11-22T02:16:21Z,bleicherweg,Parkhaus Bleicherweg / Beethovenstrasse 35,open,188
+2026-11-22T02:23:20+00:00,2026-11-22T01:28:20Z,center_11,Parkhaus Center Eleven / Sophie-Täuber-Strasse 4,open,318
+2026-11-22T02:23:20+00:00,2026-11-22T02:22:20Z,cp,Parkhaus City Parking / Gessnerallee 14,open,428
+2026-11-22T02:23:20+00:00,2026-11-22T01:41:20Z,cityport,Parkhaus Cityport / Affolternstrasse 56,open,142
+2026-11-22T02:23:20+00:00,2026-11-22T02:05:21Z,crowne_plaza,Parkhaus Crowne Plaza / Badenerstrasse 420,open,93
+2026-11-22T02:23:20+00:00,2026-11-22T02:20:20Z,globus,Parkhaus Globus / Löwenstrasse 50,open,106
+2026-11-22T02:23:20+00:00,2026-11-22T01:59:21Z,hardau,Parkhaus Hardau II / Bullingerstrasse 73,open,92
+2026-11-22T02:23:20+00:00,2026-11-22T02:22:20Z,hb,Parkhaus Hauptbahnhof / Sihlquai 41,open,134
+2026-11-22T02:23:20+00:00,2026-11-22T01:55:21Z,helvetia,Parkhaus Helvetiaplatz / Molkenstrasse 5/9,open,40
+2026-11-22T02:23:20+00:00,2026-11-22T02:22:21Z,promenade,Parkhaus Hohe Promenade / Rämistrasse 22a,open,457
+2026-11-22T02:23:20+00:00,2026-11-22T02:22:20Z,jelmoli,Parkhaus Jelmoli / Steinmühleplatz 1,open,116
+2026-11-22T02:23:20+00:00,2026-11-22T02:07:21Z,nordhaus,Parkhaus Nordhaus / Siewerdtstrasse 8,open,127
+2026-11-22T02:23:20+00:00,2026-11-22T02:20:21Z,opera,Parkhaus Opéra / Schillerstrasse 5,open,278
+2026-11-22T02:23:20+00:00,2026-11-22T02:11:21Z,park_hyatt,Parkhaus Park Hyatt / Beethovenstrasse 21,open,247
+2026-11-22T02:23:20+00:00,2026-11-22T02:11:21Z,pfingstweid,Parkhaus Pfingstweid / Pfingstweidstrasse 1,open,156
+2026-11-22T02:23:20+00:00,2026-11-22T01:31:20Z,stampfenbach,Parkhaus Stampfenbach / Niklausstrasse 1,open,170
+2026-11-22T02:23:20+00:00,2026-11-22T02:20:21Z,talgarten,Parkhaus Talgarten / Nüschelerstrasse 31,open,46
+2026-11-22T02:23:20+00:00,2026-11-22T01:48:20Z,unispital_nord,Parkhaus USZ Nord / Frauenklinikstrasse,open,83
+2026-11-22T02:23:20+00:00,2026-11-22T02:21:21Z,urania,Parkhaus Urania / Uraniastrasse 3,open,396
+2026-11-22T02:23:20+00:00,2026-11-22T02:03:21Z,zuerichhorn,Parkhaus Zürichhorn / Dufourstrasse 142,open,46
+2026-11-22T02:23:20+00:00,2026-11-22T02:20:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,156
+2026-11-22T02:23:20+00:00,2026-11-22T01:48:21Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,43
+2026-11-22T02:23:20+00:00,2026-11-22T02:10:21Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,60
