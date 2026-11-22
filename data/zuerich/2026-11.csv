@@ -433,3 +433,19 @@ collected_utc,source_utc,id,name,status,free
 2026-11-22T04:21:49+00:00,2026-11-22T03:36:21Z,utoquai,Parkhaus Utoquai / Färberstrasse 6,open,88
 2026-11-22T04:21:49+00:00,2026-11-22T03:55:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,158
 2026-11-22T04:21:49+00:00,2026-11-22T04:00:21Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,60
+2026-11-22T05:27:36+00:00,2026-11-22T05:26:20Z,cp,Parkhaus City Parking / Gessnerallee 14,open,506
+2026-11-22T05:27:36+00:00,2026-11-22T05:00:21Z,crowne_plaza,Parkhaus Crowne Plaza / Badenerstrasse 420,open,89
+2026-11-22T05:27:36+00:00,2026-11-22T04:52:21Z,dorflinde,Parkhaus Dorflinde / Schwamendingenstrasse 31,open,43
+2026-11-22T05:27:36+00:00,2026-11-22T05:24:20Z,globus,Parkhaus Globus / Löwenstrasse 50,open,125
+2026-11-22T05:27:36+00:00,2026-11-22T05:24:21Z,hb,Parkhaus Hauptbahnhof / Sihlquai 41,open,150
+2026-11-22T05:27:36+00:00,2026-11-22T05:26:21Z,promenade,Parkhaus Hohe Promenade / Rämistrasse 22a,open,459
+2026-11-22T05:27:36+00:00,2026-11-22T05:25:20Z,jelmoli,Parkhaus Jelmoli / Steinmühleplatz 1,open,163
+2026-11-22T05:27:36+00:00,2026-11-22T05:18:21Z,nordhaus,Parkhaus Nordhaus / Siewerdtstrasse 8,open,126
+2026-11-22T05:27:36+00:00,2026-11-22T04:58:20Z,pfingstweid,Parkhaus Pfingstweid / Pfingstweidstrasse 1,open,167
+2026-11-22T05:27:36+00:00,2026-11-22T05:18:21Z,talgarten,Parkhaus Talgarten / Nüschelerstrasse 31,open,80
+2026-11-22T05:27:36+00:00,2026-11-22T05:08:21Z,unispital_nord,Parkhaus USZ Nord / Frauenklinikstrasse,open,88
+2026-11-22T05:27:36+00:00,2026-11-22T05:02:21Z,uni_irchel,Parkhaus Uni Irchel / Winterthurerstrasse 181,open,498
+2026-11-22T05:27:36+00:00,2026-11-22T05:24:21Z,urania,Parkhaus Urania / Uraniastrasse 3,open,410
+2026-11-22T05:27:36+00:00,2026-11-22T05:25:20Z,utoquai,Parkhaus Utoquai / Färberstrasse 6,open,89
+2026-11-22T05:27:36+00:00,2026-11-22T05:04:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,158
+2026-11-22T05:27:36+00:00,2026-11-22T05:13:20Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,44
