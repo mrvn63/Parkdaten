@@ -398,3 +398,20 @@ collected_utc,source_utc,id,name,status,free
 2026-11-22T02:23:20+00:00,2026-11-22T02:20:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,156
 2026-11-22T02:23:20+00:00,2026-11-22T01:48:21Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,43
 2026-11-22T02:23:20+00:00,2026-11-22T02:10:21Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,60
+2026-11-22T03:19:19+00:00,2026-11-22T03:08:21Z,albisriederplatz,Parkhaus Albisriederplatz / Badenerstrasse 380,open,48
+2026-11-22T03:19:19+00:00,2026-11-22T03:09:21Z,bleicherweg,Parkhaus Bleicherweg / Beethovenstrasse 35,open,191
+2026-11-22T03:19:19+00:00,2026-11-22T03:18:20Z,cp,Parkhaus City Parking / Gessnerallee 14,open,475
+2026-11-22T03:19:19+00:00,2026-11-22T03:16:21Z,crowne_plaza,Parkhaus Crowne Plaza / Badenerstrasse 420,open,94
+2026-11-22T03:19:19+00:00,2026-11-22T03:16:20Z,globus,Parkhaus Globus / Löwenstrasse 50,open,121
+2026-11-22T03:19:19+00:00,2026-11-22T03:03:20Z,hardau,Parkhaus Hardau II / Bullingerstrasse 73,open,92
+2026-11-22T03:19:19+00:00,2026-11-22T03:16:21Z,hb,Parkhaus Hauptbahnhof / Sihlquai 41,open,144
+2026-11-22T03:19:19+00:00,2026-11-22T03:06:21Z,helvetia,Parkhaus Helvetiaplatz / Molkenstrasse 5/9,open,49
+2026-11-22T03:19:19+00:00,2026-11-22T03:18:20Z,promenade,Parkhaus Hohe Promenade / Rämistrasse 22a,open,457
+2026-11-22T03:19:19+00:00,2026-11-22T03:16:20Z,jelmoli,Parkhaus Jelmoli / Steinmühleplatz 1,open,147
+2026-11-22T03:19:19+00:00,2026-11-22T03:01:20Z,opera,Parkhaus Opéra / Schillerstrasse 5,open,280
+2026-11-22T03:19:19+00:00,2026-11-22T03:04:21Z,pfingstweid,Parkhaus Pfingstweid / Pfingstweidstrasse 1,open,165
+2026-11-22T03:19:19+00:00,2026-11-22T03:14:21Z,talgarten,Parkhaus Talgarten / Nüschelerstrasse 31,open,67
+2026-11-22T03:19:19+00:00,2026-11-22T03:02:21Z,unispital_nord,Parkhaus USZ Nord / Frauenklinikstrasse,open,87
+2026-11-22T03:19:19+00:00,2026-11-22T03:18:21Z,urania,Parkhaus Urania / Uraniastrasse 3,open,401
+2026-11-22T03:19:19+00:00,2026-11-22T02:52:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,157
+2026-11-22T03:19:19+00:00,2026-11-22T02:51:20Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,60
