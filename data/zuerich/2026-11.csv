@@ -1576,3 +1576,16 @@ collected_utc,source_utc,id,name,status,free
 2026-11-24T02:42:49+00:00,2026-11-24T02:17:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,160
 2026-11-24T02:42:49+00:00,2026-11-24T02:35:21Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,43
 2026-11-24T02:42:49+00:00,2026-11-24T02:33:21Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,60
+2026-11-24T03:43:13+00:00,2026-11-24T03:42:20Z,cp,Parkhaus City Parking / Gessnerallee 14,open,529
+2026-11-24T03:43:13+00:00,2026-11-24T03:16:21Z,crowne_plaza,Parkhaus Crowne Plaza / Badenerstrasse 420,open,82
+2026-11-24T03:43:13+00:00,2026-11-24T03:42:20Z,hb,Parkhaus Hauptbahnhof / Sihlquai 41,open,164
+2026-11-24T03:43:13+00:00,2026-11-24T03:42:21Z,promenade,Parkhaus Hohe Promenade / Rämistrasse 22a,open,459
+2026-11-24T03:43:13+00:00,2026-11-24T03:33:20Z,jungholz,Parkhaus Jungholz / Jungholzstrasse 19,open,137
+2026-11-24T03:43:13+00:00,2026-11-24T03:03:21Z,nordhaus,Parkhaus Nordhaus / Siewerdtstrasse 8,open,126
+2026-11-24T03:43:13+00:00,2026-11-24T03:31:20Z,stampfenbach,Parkhaus Stampfenbach / Niklausstrasse 1,open,164
+2026-11-24T03:43:13+00:00,2026-11-24T03:18:21Z,unispital_nord,Parkhaus USZ Nord / Frauenklinikstrasse,open,91
+2026-11-24T03:43:13+00:00,2026-11-24T03:42:21Z,uni_irchel,Parkhaus Uni Irchel / Winterthurerstrasse 181,open,502
+2026-11-24T03:43:13+00:00,2026-11-24T03:38:21Z,urania,Parkhaus Urania / Uraniastrasse 3,open,435
+2026-11-24T03:43:13+00:00,2026-11-24T03:11:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,160
+2026-11-24T03:43:13+00:00,2026-11-24T03:31:21Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,46
+2026-11-24T03:43:13+00:00,2026-11-24T03:10:20Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,60
