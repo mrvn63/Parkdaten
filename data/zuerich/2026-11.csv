@@ -2186,3 +2186,17 @@ collected_utc,source_utc,id,name,status,free
 2026-11-25T00:30:29+00:00,2026-11-25T00:16:21Z,urania,Parkhaus Urania / Uraniastrasse 3,open,421
 2026-11-25T00:30:29+00:00,2026-11-24T23:54:21Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,46
 2026-11-25T00:30:29+00:00,2026-11-25T00:28:21Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,59
+2026-11-25T02:00:00+00:00,2026-11-25T01:58:20Z,cp,Parkhaus City Parking / Gessnerallee 14,open,518
+2026-11-25T02:00:00+00:00,2026-11-25T01:37:21Z,crowne_plaza,Parkhaus Crowne Plaza / Badenerstrasse 420,open,71
+2026-11-25T02:00:00+00:00,2026-11-25T01:37:21Z,feldegg,Parkhaus Feldegg / Riesbachstrasse 7,open,126
+2026-11-25T02:00:00+00:00,2026-11-25T01:43:21Z,hb,Parkhaus Hauptbahnhof / Sihlquai 41,open,166
+2026-11-25T02:00:00+00:00,2026-11-25T00:41:21Z,helvetia,Parkhaus Helvetiaplatz / Molkenstrasse 5/9,open,52
+2026-11-25T02:00:00+00:00,2026-11-25T01:58:20Z,promenade,Parkhaus Hohe Promenade / Rämistrasse 22a,open,464
+2026-11-25T02:00:00+00:00,2026-11-25T00:45:20Z,jungholz,Parkhaus Jungholz / Jungholzstrasse 19,open,138
+2026-11-25T02:00:00+00:00,2026-11-25T01:23:21Z,opera,Parkhaus Opéra / Schillerstrasse 5,open,281
+2026-11-25T02:00:00+00:00,2026-11-25T00:52:21Z,park_hyatt,Parkhaus Park Hyatt / Beethovenstrasse 21,open,262
+2026-11-25T02:00:00+00:00,2026-11-25T00:33:20Z,unispital_nord,Parkhaus USZ Nord / Frauenklinikstrasse,open,90
+2026-11-25T02:00:00+00:00,2026-11-25T01:36:21Z,uni_irchel,Parkhaus Uni Irchel / Winterthurerstrasse 181,open,505
+2026-11-25T02:00:00+00:00,2026-11-25T01:56:21Z,urania,Parkhaus Urania / Uraniastrasse 3,open,421
+2026-11-25T02:00:00+00:00,2026-11-25T01:10:21Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,47
+2026-11-25T02:00:00+00:00,2026-11-25T00:58:20Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,59
