@@ -2792,3 +2792,18 @@ collected_utc,source_utc,id,name,status,free
 2026-11-25T23:23:28+00:00,2026-11-25T23:07:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,158
 2026-11-25T23:23:28+00:00,2026-11-25T23:00:21Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,50
 2026-11-25T23:23:28+00:00,2026-11-25T23:12:20Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,59
+2026-11-26T00:19:59+00:00,2026-11-26T00:18:20Z,cp,Parkhaus City Parking / Gessnerallee 14,open,504
+2026-11-26T00:19:59+00:00,2026-11-26T00:06:21Z,feldegg,Parkhaus Feldegg / Riesbachstrasse 7,open,121
+2026-11-26T00:19:59+00:00,2026-11-25T23:52:21Z,hb,Parkhaus Hauptbahnhof / Sihlquai 41,open,156
+2026-11-26T00:19:59+00:00,2026-11-26T00:16:20Z,helvetia,Parkhaus Helvetiaplatz / Molkenstrasse 5/9,open,52
+2026-11-26T00:19:59+00:00,2026-11-26T00:18:20Z,promenade,Parkhaus Hohe Promenade / Rämistrasse 22a,open,455
+2026-11-26T00:19:59+00:00,2026-11-25T23:23:20Z,jelmoli,Parkhaus Jelmoli / Steinmühleplatz 1,open,170
+2026-11-26T00:19:59+00:00,2026-11-25T23:55:20Z,opera,Parkhaus Opéra / Schillerstrasse 5,open,273
+2026-11-26T00:19:59+00:00,2026-11-25T23:30:21Z,park_hyatt,Parkhaus Park Hyatt / Beethovenstrasse 21,open,264
+2026-11-26T00:19:59+00:00,2026-11-25T23:54:21Z,pfingstweid,Parkhaus Pfingstweid / Pfingstweidstrasse 1,open,175
+2026-11-26T00:19:59+00:00,2026-11-25T23:31:21Z,unispital_nord,Parkhaus USZ Nord / Frauenklinikstrasse,open,85
+2026-11-26T00:19:59+00:00,2026-11-25T23:29:21Z,uni_irchel,Parkhaus Uni Irchel / Winterthurerstrasse 181,open,503
+2026-11-26T00:19:59+00:00,2026-11-26T00:17:21Z,urania,Parkhaus Urania / Uraniastrasse 3,open,424
+2026-11-26T00:19:59+00:00,2026-11-25T23:59:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,158
+2026-11-26T00:19:59+00:00,2026-11-25T23:51:21Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,46
+2026-11-26T00:19:59+00:00,2026-11-26T00:09:21Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,60
