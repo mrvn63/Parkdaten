@@ -2807,3 +2807,20 @@ collected_utc,source_utc,id,name,status,free
 2026-11-26T00:19:59+00:00,2026-11-25T23:59:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,158
 2026-11-26T00:19:59+00:00,2026-11-25T23:51:21Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,46
 2026-11-26T00:19:59+00:00,2026-11-26T00:09:21Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,60
+2026-11-26T01:49:09+00:00,2026-11-26T00:41:21Z,albisriederplatz,Parkhaus Albisriederplatz / Badenerstrasse 380,open,61
+2026-11-26T01:49:09+00:00,2026-11-26T01:48:20Z,cp,Parkhaus City Parking / Gessnerallee 14,open,522
+2026-11-26T01:49:09+00:00,2026-11-26T00:58:21Z,crowne_plaza,Parkhaus Crowne Plaza / Badenerstrasse 420,open,56
+2026-11-26T01:49:09+00:00,2026-11-26T01:38:21Z,feldegg,Parkhaus Feldegg / Riesbachstrasse 7,open,121
+2026-11-26T01:49:09+00:00,2026-11-26T01:42:21Z,hb,Parkhaus Hauptbahnhof / Sihlquai 41,open,160
+2026-11-26T01:49:09+00:00,2026-11-26T00:26:21Z,helvetia,Parkhaus Helvetiaplatz / Molkenstrasse 5/9,open,47
+2026-11-26T01:49:09+00:00,2026-11-26T01:48:20Z,promenade,Parkhaus Hohe Promenade / Rämistrasse 22a,open,458
+2026-11-26T01:49:09+00:00,2026-11-26T00:44:21Z,nordhaus,Parkhaus Nordhaus / Siewerdtstrasse 8,open,124
+2026-11-26T01:49:09+00:00,2026-11-26T00:45:21Z,opera,Parkhaus Opéra / Schillerstrasse 5,open,272
+2026-11-26T01:49:09+00:00,2026-11-26T00:35:21Z,park_hyatt,Parkhaus Park Hyatt / Beethovenstrasse 21,open,265
+2026-11-26T01:49:09+00:00,2026-11-26T01:03:21Z,pfingstweid,Parkhaus Pfingstweid / Pfingstweidstrasse 1,open,176
+2026-11-26T01:49:09+00:00,2026-11-26T00:46:21Z,unispital_nord,Parkhaus USZ Nord / Frauenklinikstrasse,open,85
+2026-11-26T01:49:09+00:00,2026-11-26T01:35:21Z,uni_irchel,Parkhaus Uni Irchel / Winterthurerstrasse 181,open,502
+2026-11-26T01:49:09+00:00,2026-11-26T01:03:21Z,urania,Parkhaus Urania / Uraniastrasse 3,open,423
+2026-11-26T01:49:09+00:00,2026-11-26T01:31:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,158
+2026-11-26T01:49:09+00:00,2026-11-26T01:19:21Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,47
+2026-11-26T01:49:09+00:00,2026-11-26T01:41:21Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,60
