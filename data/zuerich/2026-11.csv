@@ -2824,3 +2824,13 @@ collected_utc,source_utc,id,name,status,free
 2026-11-26T01:49:09+00:00,2026-11-26T01:31:21Z,theater_11,Parkplatz Theater 11 / Dörfli-/Thurgauerstrasse,open,158
 2026-11-26T01:49:09+00:00,2026-11-26T01:19:21Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,47
 2026-11-26T01:49:09+00:00,2026-11-26T01:41:21Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,60
+2026-11-26T02:44:26+00:00,2026-11-26T02:43:20Z,cp,Parkhaus City Parking / Gessnerallee 14,open,524
+2026-11-26T02:44:26+00:00,2026-11-26T02:28:21Z,feldegg,Parkhaus Feldegg / Riesbachstrasse 7,open,120
+2026-11-26T02:44:26+00:00,2026-11-26T02:43:20Z,promenade,Parkhaus Hohe Promenade / Rämistrasse 22a,open,460
+2026-11-26T02:44:26+00:00,2026-11-26T02:38:21Z,octavo,Parkhaus Octavo / Brown-Boveri-Strasse 2,open,95
+2026-11-26T02:44:26+00:00,2026-11-26T02:34:21Z,unispital_nord,Parkhaus USZ Nord / Frauenklinikstrasse,open,87
+2026-11-26T02:44:26+00:00,2026-11-26T02:08:21Z,uni_irchel,Parkhaus Uni Irchel / Winterthurerstrasse 181,open,503
+2026-11-26T02:44:26+00:00,2026-11-26T02:27:21Z,urania,Parkhaus Urania / Uraniastrasse 3,open,422
+2026-11-26T02:44:26+00:00,2026-11-26T01:52:20Z,zuerichhorn,Parkhaus Zürichhorn / Dufourstrasse 142,open,50
+2026-11-26T02:44:26+00:00,2026-11-26T02:35:20Z,unispital_sued,Parkplatz USZ Süd / Gloriastrasse,open,50
+2026-11-26T02:44:26+00:00,2026-11-26T01:53:20Z,puls5,Puls 5 Parkgarage / Giessereistrasse 18,open,61
